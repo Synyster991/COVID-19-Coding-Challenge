@@ -1,0 +1,5 @@
+ - To run this project you need pipenv, django and django-widget-tweaks
+ - Don't forget to add your name on the home page followed by what you did
+ - Nominate programmers who need motivation in this COVID period
+ - Let's see what will be the end product of this quarantine.
+ - Have fun! ;)
